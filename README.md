@@ -28,12 +28,9 @@ To successfully run the FaceMosaic project on Google Colab, please follow these 
 
 The final folder structure should look like this:
 
-FaceMosaic/
-├── dataset/                   # Directory for celebrity images
-│   ├── celebrity1.jpg         # Example celebrity image
-│   └── celebrity2.jpg         # Another celebrity image
-├── Sample/                    # Directory for images to compare
-│   └── person1.jpg            # Image to compare against
+![image](https://github.com/user-attachments/assets/f0d48ab5-b804-445f-9f29-dcb249908641)
+
+
 
 
 
