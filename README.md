@@ -12,6 +12,31 @@
 
 - **Social Media Impact**: As social media continues to grow, the need for verification tools becomes increasingly important. FaceMosaic plays a pivotal role in helping users navigate the complexities of online identities, promoting responsible sharing and consumption of content. 📱
 
+## Folder Structure 📂
+
+To successfully run the FaceMosaic project on Google Colab, please follow these steps to create the necessary folder structure:
+
+1. **Create a Main Project Folder**: Name it `FaceMosaic` (or any name you prefer).
+
+2. **Inside the Main Folder**, create two subfolders:
+   - `dataset/`: This folder will store the celebrity images.
+   - `Sample/`: This folder will contain the image you want to compare.
+
+3. **Upload Images**:
+   - Place your celebrity images (e.g., `celebrity1.jpg`, `celebrity2.jpg`) inside the `dataset/` folder.
+   - Place the image you want to compare (e.g., `person1.jpg`) inside the `Sample/` folder.
+
+The final folder structure should look like this:
+
+FaceMosaic/
+├── dataset/                   # Directory for celebrity images
+│   ├── celebrity1.jpg         # Example celebrity image
+│   └── celebrity2.jpg         # Another celebrity image
+├── Sample/                    # Directory for images to compare
+│   └── person1.jpg            # Image to compare against
+
+
+
 ## Recommendations 🌐
 
 I highly recommend running this project on [Google Colab](https://colab.research.google.com). Colab offers a powerful, cloud-based environment with the following advantages:
